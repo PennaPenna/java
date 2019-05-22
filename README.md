@@ -1,3 +1,4 @@
-# java-hh
-School assignment working on array lists, models, maps.
-Simple app to add, change and delete parameters from models that are listed or hash mapped.
+# Java
+Tässä muutama koulutehtävä Java-kurssilta. <br/><br/>
+Here are some of my school assignments on Java. I've implemented all the following in various ways: methods, objects, arraylists, models, hashmaps, databases, html, css.
+
